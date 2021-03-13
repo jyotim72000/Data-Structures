@@ -209,7 +209,7 @@ class LinkedList
 	}
 }
 
-public class single
+public class SingleLinkedList
 {
 	public static void main(String args[])
 	{
