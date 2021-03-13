@@ -1,9 +1,7 @@
-package array;
-
 import java.util.HashMap;
 import java.util.Map;
 
-public class TwoSum 
+public class TwoSumProblem
 {
 	public static int[] twoSum(int[] numbers, int target)
 	{
