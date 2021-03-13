@@ -33,6 +33,5 @@ public class BinaryTree
 	{
 		BinaryTree bt = new BinaryTree();
 		bt.createBinaryTree();
-
 	}
 }
