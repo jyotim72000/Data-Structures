@@ -213,7 +213,7 @@ class LinkedList
 	}
 }
 
-public class doubly
+public class DoublyLinkedList
 {
 	public static void main(String args[])
 	{
