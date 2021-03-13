@@ -1,5 +1,4 @@
-package array;
-public class Main 
+public class Array
 {
 	public static void printArray(int[] arr) 
 	{
